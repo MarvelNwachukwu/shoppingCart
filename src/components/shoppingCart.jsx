@@ -1,10 +1,9 @@
-import React from "react";
-function cart(params) {
-  return (
-    <React.Fragment>
+const Cart = (props) => {
+  return ( 
+    <div> 
       <h1>Hello, World</h1>
-    </React.Fragment>
-  );
-}
+    </div>
+  )
+};
 
-export default cart;
+export default Cart;

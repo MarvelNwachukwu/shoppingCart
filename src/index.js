@@ -7,8 +7,7 @@ import Cart from "./components/shoppingCart";
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <Cart />
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
